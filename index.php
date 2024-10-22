@@ -12,7 +12,7 @@ teksHai = "ADAAA CULATT BUAT KAMUU:))";
 
 konten = [
   {
-    gambar: "lucu.gif",
+    gambar: "BDE40BEE-E3C9-4AD0-991D-A54F88305E45.gif",
     ucapan: "I LOVEEEE YOUUUU SAYAANGGGGKUUUUU",
   },
 ];
